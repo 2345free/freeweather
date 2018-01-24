@@ -31,4 +31,5 @@ dependencies {
     provided group: 'org.projectlombok', name: 'lombok', version: '1.16.20'
     annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.16.20'
     implementation 'org.litepal.android:core:1.6.1'
+    implementation 'com.amap.api:location:latest.integration'
 }
